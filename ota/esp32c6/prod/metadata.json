@@ -1,5 +1,5 @@
 {
-  "version": "1.0.15",
-  "sha256": "a5d5fdc5be1e4cffea878adbef1879b602bb4e34f0d2062bb56427018746b7fd",
+  "version": "1.0.16",
+  "sha256": "2275fff490f742d0e60482f9cd0d3650cd6072e1077a6aec8354f4c0133a76dd",
   "url": "https://uzunberkay.github.io/ESP32_DALI_OT_OTA/ota/esp32c6/prod/firmware.bin"
 }
