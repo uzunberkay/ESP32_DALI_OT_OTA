@@ -1,0 +1,11 @@
+{
+  "version": "1.0.29",
+  "sha256": "d6f9bf3edcd9ee99bafc4a00828c4a35a1204269b45abcbd48624ecbb5a4a297",
+  "url": "https://uzunberkay.github.io/ESP32_DALI_OT_OTA/ota/esp32c6/test/firmware.bin",
+  "patches": [
+    {
+      "base": "2a265d91932ec04a",
+      "size": 22229
+    }
+  ]
+}
