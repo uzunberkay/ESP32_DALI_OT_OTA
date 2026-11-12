@@ -1,27 +1,27 @@
 {
-  "version": "1.0.35",
-  "sha256": "8c6e674334b7c836a8160530b9d757b959e6b6ceef09021000ffafb3b49fb8c8",
+  "version": "1.0.36",
+  "sha256": "3646a3922a2a451730139b0d24e9707ffc78ebd348429a3b23a4e33c36ff8e81",
   "url": "https://uzunberkay.github.io/ESP32_DALI_OT_OTA/ota/esp32c6/prod/firmware.bin",
   "patches": [
     {
+      "base": "8c6e674334b7c836",
+      "size": 65477
+    },
+    {
       "base": "4eafee105e83ebe8",
-      "size": 89672
+      "size": 92780
     },
     {
       "base": "ac3ed8bafa266626",
-      "size": 90089
+      "size": 93168
     },
     {
       "base": "1f5ce42712ddf127",
-      "size": 92864
+      "size": 95417
     },
     {
       "base": "57cfbb24b731dd53",
-      "size": 93216
-    },
-    {
-      "base": "2f3855f5d0fe4fa3",
-      "size": 93207
+      "size": 95786
     }
   ]
 }
